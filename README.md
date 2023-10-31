@@ -50,6 +50,6 @@ Users should be able to:
 -Gained valuable experience thinking through the project and making sure I stays detail-oriented to match the design. 
 
 ## Author
-- Frontend Mentor - [@Zdravko93](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Zdravko93](https://www.frontendmentor.io/profile/Zdravko93)
 - GitHub - [Zdravko93](https://github.com/Zdravko93?tab=repositories)
 
